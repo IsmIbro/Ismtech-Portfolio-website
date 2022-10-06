@@ -1,0 +1,230 @@
+Ism Ibrahim Personal Portfolio
+
+# sidebar
+
+alt = Ism Ibrahim
+Web Developer || Engineer
+
+Show Contacts
+
+Email
+ism.web.developer@gmail.com
+
+Phone
++234 (810) 3296757
+
+Birthday
+November 09, 2003
+
+Location
+Ivbiaro,Edo State, Nigeria
+
+# navbar
+
+About
+Resume
+Portfolio
+Blog
+Contact
+
+# about
+
+About me
+
+I'm Civil Engineering Student at Auchi Poly. and A Self-Taught web developer, I was able to learn HTML, CSS, javascript, PHP, SQL including Python programming language on my own while I was still in Higher school in  Nigeria, working in web development, . I enjoy turning complex problems into simple, beautiful and intuitive designs.
+
+My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created website like hospital management system, Resturant management system include schooh website and many more....
+
+
+## service
+
+What i'm doing
+
+alt = design icon
+Web design
+The most modern and high-quality design made at a professional level.
+
+alt = Web development icon
+Web development
+High-quality development of sites at the professional level.
+
+alt = mobile app icon
+Mobile apps
+Professional development of applications for iOS and Android.
+
+alt = camera icon
+Architecture
+I make high-quality House plan of any category at a professional level.
+
+
+## testimonials
+
+Testimonials
+
+alt = Daniel lewis
+Daniel lewis
+Ibrahim was hired to create a corporate identity. We were very pleased with the work done. He has a lot of experience and is very concerned about the needs of client. 
+
+alt = Jessica miller
+Jessica miller
+Ibrahim was hired to create a corporate identity. We were very pleased with the work done. He has a lot of experience and is very concerned about the needs of client.
+alt = Emily evans
+Emily evans
+Ibrahim was hired to create a corporate identity. We were very pleased with the work done. He has a lot of experience and is very concerned about the needs of client.
+alt = Henry william
+Henry william
+Ibrahim was hired to create a corporate identity. We were very pleased with the work done. He has a lot of experience and is very concerned about the needs of client.
+
+## clients
+
+Clients
+
+alt = client logo
+
+
+
+# resume
+
+Resume
+
+Education
+
+Auchi polytechnic, Auchi
+2019 — Present
+I started my coding carear in High school While still at civil Engineering department
+
+Solid Foundation Secondary school
+2011 — 2016
+I learnt some computer hardware
+ESE PRIMARY SCHOOL
+2006 - 2010
+Still a litle Kid 
+Experience
+
+Web development
+2019 — present
+I started to build website using Wix and WordPress.
+
+My skills
+
+Python
+80%
+CSS
+70%
+HTML
+100%
+javascript
+50%
+PHP
+60%
+SQL
+40%
+
+
+
+# portfolio
+
+Portfolio
+
+All
+Web design
+Applications
+Web development
+
+Select category
+All
+Web design
+Applications
+Web development
+
+alt = finance
+Finance
+Web development
+
+alt = orizon
+Orizon
+Web development
+
+alt = fundo
+Fundo
+Web design
+
+alt = brawlhalla
+Brawlhalla
+Applications
+
+alt = dsm.
+DSM.
+Web design
+
+alt = metaspark
+MetaSpark
+Web design
+
+alt = summary
+Summary
+Web development
+
+alt = task manager
+Task Manager
+Applications
+
+alt = arrival
+Arrival
+Web development
+
+
+
+# blog
+
+Blog
+
+alt = Design conferences in 2022
+Design
+Fab 23, 2022
+Design conferences in 2022
+Veritatis et quasi architecto beatae vitae dicta sunt, explicabo.
+
+alt = Best fonts every designer
+Design
+Fab 23, 2022
+Best fonts every designer
+Sed ut perspiciatis, nam libero tempore, cum soluta nobis est eligendi.
+
+alt = Design digest #80
+Design
+Fab 23, 2022
+Design digest #80
+Excepteur sint occaecat cupidatat no proident, quis nostrum exercitationem ullam corporis suscipit.
+
+alt = UI interactions of the week
+Design
+Fab 23, 2022
+UI interactions of the week
+Enim ad minim veniam, consectetur adipiscing elit, quis nostrud exercitation ullamco laboris nisi.
+
+alt = The forgotten art of spacing
+Design
+Fab 23, 2022
+The Forgotten Art Of Spacing
+Maxime placeat, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+alt = Design digest #79
+Design
+Fab 23, 2022
+Design Digest #79
+Optio cumque nihil impedit uo minus quod maxime placeat, velit esse cillum.
+
+
+
+# contact
+
+Contact
+
+Contact Form
+
+Full name
+Email address
+Your Message
+
+Send Message
